@@ -23,7 +23,7 @@
     ·
     <a href="#">Presentation Slide</a>
     <br />
-    © C23-PR591 Bangkit Capstone Team
+    © C242-PS552 Bangkit Capstone Team
   </p>
 </p>
 
