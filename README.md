@@ -1,7 +1,5 @@
-![Project Banner](assets/images/exotiscan-banner.png)
-
 <p align="center">
-  <a href='https://github.com/Exotiscan/Exotiscan'><img src='/assets/images/exotiscan-logo.png' type='image' alt="Logo"></a>
+  <a href='https://github.com/Exotiscan/Exotiscan'><img src='assets/images/exotiscan-banner.png' type='image' alt="Logo"></a>
 
   <h1 align="center">Exotiscan</h1>
   <h2 align="center">Discover and Learn About Indonesia’s Endangered Wildlife</h2>
