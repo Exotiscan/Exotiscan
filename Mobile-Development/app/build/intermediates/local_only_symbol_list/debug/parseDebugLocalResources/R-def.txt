@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color logo_app_background
+color mainColor
+color secondColor
+color white
+drawable gradient_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable image_splash_exotiscan
+id action_splashFragment_to_homeFragment
+id homeFragment
+id nav_host_fragment
+id splashFragment
+layout activity_main
+layout fragment_home_screen
+layout fragment_splash_screen
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap logo_app
+mipmap logo_app_foreground
+mipmap logo_app_round
+navigation navigation_app
+string app_name
+string hello_blank_fragment
+style Base.Theme.ExotiscanApp
+style Theme.ExotiscanApp
+xml backup_rules
+xml data_extraction_rules

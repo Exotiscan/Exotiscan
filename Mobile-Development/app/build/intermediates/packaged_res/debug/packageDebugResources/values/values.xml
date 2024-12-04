@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="logo_app_background">#257180</color>
+    <color name="mainColor">#257180</color>
+    <color name="secondColor">#324F60</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ExotiscanApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.ExotiscanApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ExotiscanApp" parent="Base.Theme.ExotiscanApp"/>
+</resources>
