@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="desc_first_screen">Use your camera or upload a picture from your gallery to detect rare animals around you easily and quickly</string>
     <style name="Base.Theme.ExotiscanApp" parent="Theme.Material3.DayNight.NoActionBar">
         
         

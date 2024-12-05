@@ -9,6 +9,7 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
+
     }
 }
 dependencyResolutionManagement {
@@ -17,6 +18,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+
 }
 
 rootProject.name = "ExotiscanApp"

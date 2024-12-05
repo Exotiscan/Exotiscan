@@ -4,5 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="mainColor">#257180</color>
     <color name="secondColor">#324F60</color>
+    <color name="thirdColor">#FCBC75</color>
+    <color name="greyColor">#BEBEBE</color>
+
 
 </resources>

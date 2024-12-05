@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.exotiscanapp-mergeDebugResources-46:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.example.exotiscanapp-mergeDebugResources-67:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\maula\\.gradle\\caches\\transforms-4\\1c95f8e67e3de5236b7c0d0569dda9c0\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\maula\\.gradle\\caches\\transforms-4\\85474170219e525f2ab722dbb9df887e\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\maula\\.gradle\\caches\\transforms-4\\3561d1ffeb4a54dc7870f082948658e6\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\maula\\.gradle\\caches\\transforms-4\\28b762a902ee0bfc958d855045f79e41\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

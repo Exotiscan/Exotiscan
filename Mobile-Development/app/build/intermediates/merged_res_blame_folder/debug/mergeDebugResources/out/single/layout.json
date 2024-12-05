@@ -1,14 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-47:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-50:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\fragment_second_screen.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_second_screen.xml"
     },
     {
-        "merged": "com.example.exotiscanapp-mergeDebugResources-47:/layout/fragment_home_screen.xml",
-        "source": "com.example.exotiscanapp-main-50:/layout/fragment_home_screen.xml"
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\fragment_home_screen.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_home_screen.xml"
     },
     {
-        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-47:\\layout\\fragment_splash_screen.xml",
-        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-50:\\layout\\fragment_splash_screen.xml"
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\fragment_view_pager.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\fragment_first_screen.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_first_screen.xml"
+    },
+    {
+        "merged": "com.example.exotiscanapp-mergeDebugResources-68:/layout/fragment_home_screen.xml",
+        "source": "com.example.exotiscanapp-main-71:/layout/fragment_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\fragment_splash_screen.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-mergeDebugResources-68:\\layout\\fragment_third_screen.xml",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_third_screen.xml"
     }
 ]

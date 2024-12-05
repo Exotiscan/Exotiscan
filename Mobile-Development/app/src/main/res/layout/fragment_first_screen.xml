@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/first_screen"
+    android:background="@drawable/gradient_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.onboarding.screen.FirstFragmentScreen">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:padding="16dp">
+
+        <!-- Gambar dekorasi -->
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:src="@drawable/decoration_first"
+            android:contentDescription="@string/first_screen_image_decoration"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerInside" />
+
+        <!-- Teks Deskripsi -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome_to_exotiscan"
+            android:gravity="center"
+            android:paddingTop="16dp"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desc_first_screen"
+            android:gravity="center"
+            android:layout_marginHorizontal="30dp"
+            android:paddingTop="16dp"
+            android:textSize="15sp"
+            android:textColor="@color/greyColor" />
+
+        <!-- Custom TextButton with Icon -->
+        <RelativeLayout
+            android:id="@+id/swipe_next_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:paddingTop="24dp">
+
+            <!-- Text -->
+            <TextView
+                android:id="@+id/btn_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:fontFamily="@font/urbanist_bold"
+                android:text="@string/swipe_text_button"
+                android:textColor="@color/thirdColor"
+                android:textSize="18sp" />
+
+            <!-- Icon -->
+            <ImageView
+                android:id="@+id/btn_icon"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="8dp"
+                android:layout_toEndOf="@id/btn_text"
+                android:contentDescription="@string/next_arrow_icon"
+                android:src="@drawable/baseline_keyboard_double_arrow_right_24" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

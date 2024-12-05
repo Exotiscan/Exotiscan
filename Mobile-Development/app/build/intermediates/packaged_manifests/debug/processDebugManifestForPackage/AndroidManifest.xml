@@ -8,6 +8,12 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="34" />
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
     <permission
         android:name="com.example.exotiscanapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
