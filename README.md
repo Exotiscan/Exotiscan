@@ -52,6 +52,8 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
 
 - **Mobile Development**:
   * Kotlin
+  * CameraX
+  * PageIndicator
 
 # Repositories
 |   Learning Paths   |                                Link                                |
