@@ -26,12 +26,13 @@ class SplashFragment : Fragment(R.layout.fragment_splash_screen) {
         // Navigasi ke HomeFragment setelah 2 detik
         Handler(Looper.getMainLooper()).postDelayed({
             if (onBoardingPreferences.isOnBoardingFinished(false)){
-                findNavController().navigate(R.id.action_splashFragment_to_homeFragment)
+                findNavController().navigate(R.id.action_splashFragment_to_MainActivity)
 
             } else{
                 findNavController().navigate(R.id.action_splashFragment_to_viewPagerFragment)
 
             }
+
         }, 2000) // 2 detik
         return binding.root
     }

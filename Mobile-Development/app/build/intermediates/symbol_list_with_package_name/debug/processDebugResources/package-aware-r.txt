@@ -2169,6 +2169,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color selector_nav_colors
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -3064,9 +3065,11 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable arrow_back_icon
 drawable avd_hide_password
 drawable avd_show_password
 drawable baseline_keyboard_double_arrow_right_24
+drawable baseline_search_24
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3085,6 +3088,8 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable dot_background
 drawable gradient_background
+drawable history_icon
+drawable home_icon
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3180,6 +3185,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable profile_icon
+drawable quiz_icon
+drawable scan_icon
 drawable spring_dot_background
 drawable spring_dot_stroke_background
 drawable test_level_drawable
@@ -3261,7 +3269,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
-id action_splashFragment_to_homeFragment
+id action_splashFragment_to_MainActivity
 id action_splashFragment_to_viewPagerFragment
 id action_text
 id action_viewPagerFragment_to_homeFragment
@@ -3295,6 +3303,8 @@ id below
 id bestChoice
 id blocking
 id bottom
+id bottom_app_bar
+id bottom_navigation
 id bounce
 id bounceBoth
 id bounceEnd
@@ -3342,6 +3352,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dashboard_nav
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3390,6 +3401,7 @@ id escape
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fade
 id fill
 id fill_horizontal
@@ -3407,6 +3419,7 @@ id flip
 id floating
 id forever
 id fragment_container_view_tag
+id frame_dashboard
 id frost
 id fullscreen_header
 id ghost_view
@@ -3422,9 +3435,10 @@ id hide_graphics_layer_in_inspector_tag
 id hide_ime_id
 id hide_in_inspector_tag
 id hideable
+id historyScreenFragment
 id home
 id homeAsUp
-id homeFragment
+id homeScreenFragment
 id honorRequest
 id horizontal
 id horizontal_only
@@ -3459,6 +3473,7 @@ id list_item
 id locale
 id ltr
 id m3_side_sheet
+id mainActivity
 id marquee
 id masked
 id match_constraint
@@ -3519,8 +3534,13 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id nav_controller_view_tag
+id nav_graph_splash
+id nav_history
+id nav_home
 id nav_host_fragment
 id nav_host_fragment_container
+id nav_profile
+id nav_quiz
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3575,8 +3595,10 @@ id pooling_container_listener_holder_tag
 id position
 id postLayout
 id pressed
+id profileScreenFragment
 id progress_circular
 id progress_horizontal
+id quizScreenFragment
 id radio
 id ratio
 id rectangles
@@ -3851,6 +3873,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_on_boarding
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3869,7 +3892,10 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dot_layout
 layout fragment_first_screen
+layout fragment_history_screen
 layout fragment_home_screen
+layout fragment_profile_screen
+layout fragment_quiz_screen
 layout fragment_second_screen
 layout fragment_splash_screen
 layout fragment_third_screen
@@ -3939,6 +3965,7 @@ layout select_dialog_singlechoice_material
 layout spring_dot_layout
 layout support_simple_spinner_dropdown_item
 layout worm_dot_layout
+menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap logo_app
@@ -4008,12 +4035,16 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string first_screen_image_decoration
+string floating_action_button
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
+string history
+string home
 string icon_content_description
 string in_progress
 string indeterminate
 string item_view_role_description
+string logo_splash
 string m3_exceed_max_badge_text_suffix
 string m3_ref_typeface_brand_medium
 string m3_ref_typeface_brand_regular
@@ -4181,6 +4212,8 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string profile
+string quiz
 string range_end
 string range_start
 string search_menu_title
@@ -4491,6 +4524,7 @@ style Base_Widget_MaterialComponents_Snackbar
 style Base_Widget_MaterialComponents_TextInputEditText
 style Base_Widget_MaterialComponents_TextInputLayout
 style Base_Widget_MaterialComponents_TextView
+style BottomNavViewStyle
 style CardView
 style CardView_Dark
 style CardView_Light

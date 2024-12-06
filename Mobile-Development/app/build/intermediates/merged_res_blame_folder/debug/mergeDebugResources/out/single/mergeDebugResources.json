@@ -4,6 +4,10 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\navigation\\navigation_app.xml"
     },
     {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_fragment_profile_screen.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_profile_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\xml\\backup_rules.xml"
     },
@@ -16,16 +20,20 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\decoration_first.png"
     },
     {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\baseline_search_24.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\font_urbanist_regular.ttf.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\font\\urbanist_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-mdpi_logo_app_foreground.webp.flat",
-        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-mdpi\\logo_app_foreground.webp"
-    },
-    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_fragment_view_pager.xml.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-mdpi_logo_app_foreground.webp.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-mdpi\\logo_app_foreground.webp"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xhdpi_logo_app_foreground.webp.flat",
@@ -44,6 +52,10 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_scan_icon.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\scan_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xxhdpi_logo_app.webp.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxhdpi\\logo_app.webp"
     },
@@ -54,6 +66,14 @@
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_image_splash_exotiscan.png.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\image_splash_exotiscan.png"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_fragment_quiz_screen.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_quiz_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\home_icon.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\font_urbanist_semibolditalic.ttf.flat",
@@ -74,6 +94,10 @@
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-anydpi-v26_logo_app.xml.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-anydpi-v26\\logo_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\menu\\bottom_nav_menu.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_fragment_third_screen.xml.flat",
@@ -100,12 +124,12 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\font_urbanist.xml.flat",
-        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\font\\urbanist.xml"
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_fragment_history_screen.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\fragment_history_screen.xml"
     },
     {
-        "merged": "com.example.exotiscanapp-debug-69:/layout_fragment_home_screen.xml.flat",
-        "source": "com.example.exotiscanapp-main-71:/layout/fragment_home_screen.xml"
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\font_urbanist.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\font\\urbanist.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_ic_launcher_background.xml.flat",
@@ -124,6 +148,10 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xhdpi\\logo_app_round.webp"
     },
     {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_profile_icon.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\profile_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xxxhdpi_logo_app_round.webp.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxxhdpi\\logo_app_round.webp"
     },
@@ -136,6 +164,10 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\color_selector_nav_colors.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\color\\selector_nav_colors.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_decoration_second.png.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\decoration_second.png"
     },
@@ -146,6 +178,10 @@
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xhdpi_logo_app.webp.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xhdpi\\logo_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_quiz_icon.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\quiz_icon.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-anydpi-v26_logo_app_round.xml.flat",
@@ -162,6 +198,10 @@
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xxxhdpi_logo_app.webp.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxxhdpi\\logo_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\activity_on_boarding.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -188,6 +228,10 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\font\\urbanist_italic.ttf"
     },
     {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_history_icon.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\history_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xxxhdpi_logo_app_foreground.webp.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxxhdpi\\logo_app_foreground.webp"
     },
@@ -208,12 +252,20 @@
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\mipmap-xxhdpi\\logo_app_round.webp"
     },
     {
+        "merged": "com.example.exotiscanapp-debug-69:/navigation_navigation_app.xml.flat",
+        "source": "com.example.exotiscanapp-main-71:/navigation/navigation_app.xml"
+    },
+    {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_gradient_background.xml.flat",
         "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\drawable_arrow_back_icon.xml.flat",
+        "source": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-main-71:\\drawable\\arrow_back_icon.xml"
     },
     {
         "merged": "C:\\Users\\maula\\.gradle\\daemon\\8.7\\com.example.exotiscanapp-debug-69:\\mipmap-xxhdpi_logo_app_foreground.webp.flat",

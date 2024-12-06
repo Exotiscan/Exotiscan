@@ -317,7 +317,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/done/baseline_done_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/arrow_back/baseline_arrow_back_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -327,9 +327,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="194c59" />
-                            <entry key="outputName" value="icon_done_24" />
-                            <entry key="sourceFile" value="C:\Users\maula\Desktop\Capstone\Exotiscan\Mobile-Development" />
+                            <entry key="color" value="ffffff" />
+                            <entry key="outputName" value="arrow_back_icon" />
+                            <entry key="sourceFile" value="C:\Users\maula\Downloads\scan_icon.svg" />
                           </map>
                         </option>
                       </PersistentState>

@@ -8,5 +8,6 @@
         android:layout_width="180dp"
         android:layout_height="180dp"
         android:layout_gravity="center"
+        android:contentDescription="@string/logo_splash"
         android:src="@drawable/image_splash_exotiscan" />
 </FrameLayout>

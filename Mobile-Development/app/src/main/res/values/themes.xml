@@ -9,4 +9,11 @@
     </style>
 
     <style name="Theme.ExotiscanApp" parent="Base.Theme.ExotiscanApp" />
+
+    <!-- Add a specific style for BottomNavigationView -->
+    <style name="BottomNavViewStyle">
+        <item name="android:theme">@style/Theme.MaterialComponents.DayNight.NoActionBar</item>
+        <item name="android:background">@color/secondColor</item>
+
+    </style>
 </resources>
