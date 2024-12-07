@@ -50,11 +50,6 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
   * Cloud SQL (GCP)
   * Cloud Storage (GCP)
 
-- **Mobile Development**:
-  * Kotlin
-  * CameraX
-  * PageIndicator
-
 # Repositories
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
