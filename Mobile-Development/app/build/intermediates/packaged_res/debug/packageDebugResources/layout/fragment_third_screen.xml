@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/third_screen"
+    android:background="@drawable/gradient_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.onboarding.screen.FirstFragmentScreen">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:padding="16dp">
+
+        <!-- Teks Deskripsi -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/thank_you"
+            android:gravity="center"
+            android:paddingTop="16dp"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="30dp"
+            android:text="@string/desc_third_screen"
+            android:gravity="center"
+            android:layout_marginHorizontal="30dp"
+            android:paddingTop="16dp"
+            android:textSize="15sp"
+            android:textColor="@color/greyColor" />
+
+        <!-- Custom TextButton with Icon -->
+    <RelativeLayout
+        android:layout_marginTop="150dp"
+        android:id="@+id/finishOnBoard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:gravity="center">
+
+    <!-- Circle Button -->
+    <FrameLayout
+
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:background="@drawable/circle_button_background"
+        android:gravity="center">
+
+    <!-- Icon inside the circle -->
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/btn_icon"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/icon_done_24"
+        android:contentDescription="@string/next_arrow_icon" />
+
+</FrameLayout>
+
+    </RelativeLayout>
+
+
+    </LinearLayout>
+
+</FrameLayout>

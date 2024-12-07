@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="greyColor">#BEBEBE</color>
+    <color name="logo_app_background">#257180</color>
+    <color name="mainColor">#257180</color>
+    <color name="secondColor">#324F60</color>
+    <color name="thirdColor">#FCBC75</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ExotiscanApp</string>
+    <string name="desc_first_screen">Use your camera or upload a picture from your gallery to detect rare animals around you easily and quickly</string>
+    <string name="desc_second_screen">Oops! We need permission to access your device. Please enable camera and gallery permissions so the app can run smoothly.</string>
+    <string name="desc_third_screen">Enjoy discovering rare animals that make you curious.</string>
+    <string name="first_screen_image_decoration">first screen image decoration</string>
+    <string name="floating_action_button">Floating Action Button</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="logo_splash">Logo Splash</string>
+    <string name="next_arrow_icon">Next Arrow Icon</string>
+    <string name="profile">Profile</string>
+    <string name="quiz">Quiz</string>
+    <string name="second_screen_image_decoration">second screen image decoration</string>
+    <string name="swipe_text_button">Swipe</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="welcome_to_exotiscan">Welcome to Exotiscan!</string>
+    <style name="Base.Theme.ExotiscanApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:fontFamily">@font/urbanist</item>
+        <item name="android:windowBackground">@color/mainColor</item>
+        <item name="android:windowSplashScreenAnimationDuration" ns1:targetApi="s">0</item>
+    </style>
+    <style name="BottomNavViewStyle">
+        <item name="android:theme">@style/Theme.MaterialComponents.DayNight.NoActionBar</item>
+        <item name="android:background">@color/secondColor</item>
+
+    </style>
+    <style name="Theme.ExotiscanApp" parent="Base.Theme.ExotiscanApp"/>
+</resources>
