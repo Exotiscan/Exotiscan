@@ -64,7 +64,7 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
 | No  |  ID Student    |      Name Student                |       Path         |    LinkedIn     |
 |:---:|:--------------:|:--------------------------------:|:------------------:|:---------------:|
 |  1  |  M350B4KY0190  |  Ahmad Albani Islami             | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-albani-islami/) |
-|  2  |  M770B4KX0505  |  Ayu Nursila                     | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) |
+|  2  |  M770B4KX0505  |  Ayu Nursila                     | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayu-nursila-288a56261/) |
 |  3  |  M350B4KY0509  |  Andika Bintang Nursalih         | Machine Learning   |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andikabintangnursalih/) |
 |  4  |  C350B4KY1620  |  Gian Virgiawan                  | Cloud Computing    |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianvirgiawan/) |
 |  5  |  C350B4KY2635  |  Muhamad Fikri Arjuna            | Cloud Computing    |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-fikri-arjuna/) |
