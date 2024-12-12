@@ -10,11 +10,12 @@ Enjoy your exploration, and may you find it useful! 🎉
 <p align="center">
   <img src='images/arsitektur_exotiscan.png' type='image' alt="">
 </p>
+
 ---
 
 ## Tech Stack
 
-- Nodejs 22
+- Nodejs 18
   - hapi v21.3.0
   - tensorflow/tfjs-node v4.19.0
   - dotenv v16.4.7
