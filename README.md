@@ -33,10 +33,14 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
 
 # Features
 
-- Detect rare animal predictions using camera
-- Provides detailed information about the predicted animal species (description, rarity)
+- Detect rare animal predictions using camera and upload image
+- Provides detailed information about the predicted animal species (description, rarity, etc)
 
 # Architecture
+
+<p align="center">
+  <img src='images/arsitektur_exotiscan.png' type='image' alt="">
+</p>
 
 # Tech Stack
 
