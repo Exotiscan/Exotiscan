@@ -28,44 +28,55 @@
 </p>
 
 # Overview
+
 ExotiScan is an educational mobile app designed to raise awareness about Indonesia's endangered land animals. Users can scan orupload animal images to receive real-time information about their conservation status, habitat, and threats. The app combines engaging visuals with accessible content to inspire conservation efforts and promote biodiversity awareness.
 
 # Features
+
 - Detect rare animal predictions using camera
 - Provides detailed information about the predicted animal species (description, rarity)
 
 # Architecture
 
-
 # Tech Stack
+
 - **Machine Learning**:
-  * Tensorflow
-  * NumPy
+
+  - TensorFlow
+  - NumPy
+  - Pandas
+  - Matplotlib
 
 - **Cloud Computing**:
-  * Expressjs
-  * Firebase
-  * Firestore (GCP)
-  * Cloud Run (GCP)
-  * Cloud SQL (GCP)
-  * Cloud Storage (GCP)
+
+  - Expressjs
+  - Firebase
+  - Firestore (GCP)
+  - Cloud Run (GCP)
+  - Cloud SQL (GCP)
+  - Cloud Storage (GCP)
 
 - **Mobile Development**:
-  * Kotlin
+  - Kotlin
+  - Android Studio
+  - CameraX
+  - Retrofit
 
 # Repositories
-|   Learning Paths   |                                Link                                |
-| :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/Exotiscan/Exotiscan/tree/mobile-development) |
-|  Machine Learning  |  [Github](https://github.com/Exotiscan/Exotiscan/tree/machine-learning) |
-|   Cloud Computing  |   [Github](https://github.com/Exotiscan/Exotiscan/tree/cloud-computing) |
+
+|   Learning Paths   |                                  Link                                  |
+| :----------------: | :--------------------------------------------------------------------: |
+| Mobile Development |    [Github](https://github.com/Exotiscan/Exotiscan/tree/mobile-dev)    |
+|  Machine Learning  | [Github](https://github.com/Exotiscan/Exotiscan/tree/machine-learning) |
+|  Cloud Computing   | [Github](https://github.com/Exotiscan/Exotiscan/tree/cloud-computing)  |
 
 # Team Members
-| No  |  ID Student    |      Name Student                |       Path         |    LinkedIn     |
-|:---:|:--------------:|:--------------------------------:|:------------------:|:---------------:|
-|  1  |  M350B4KY0190  |  Ahmad Albani Islami             | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-albani-islami/) |
-|  2  |  M770B4KX0505  |  Ayu Nursila                     | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayu-nursila-288a56261/) |
-|  3  |  M350B4KY0509  |  Andika Bintang Nursalih         | Machine Learning   |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andikabintangnursalih/) |
-|  4  |  C350B4KY1620  |  Gian Virgiawan                  | Cloud Computing    |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianvirgiawan/) |
-|  5  |  C350B4KY2635  |  Muhamad Fikri Arjuna            | Cloud Computing    |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-fikri-arjuna/) |
-|  6  |  A350B4KY2252  |  Lalu Maulana Khairuman Dwipa    | Mobile Development |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-khairuman-a8693532b/) |
+
+| No  |  ID Student  |         Name Student         |        Path        |                                                                          LinkedIn                                                                          |
+| :-: | :----------: | :--------------------------: | :----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  | M350B4KY0190 |     Ahmad Albani Islami      |  Machine Learning  |     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-albani-islami/)     |
+|  2  | M770B4KX0505 |         Ayu Nursila          |  Machine Learning  |    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayu-nursila-288a56261/)    |
+|  3  | M350B4KY0509 |   Andika Bintang Nursalih    |  Machine Learning  |    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andikabintangnursalih/)    |
+|  4  | C350B4KY1620 |        Gian Virgiawan        |  Cloud Computing   |        [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianvirgiawan/)        |
+|  5  | C350B4KY2635 |     Muhamad Fikri Arjuna     |  Cloud Computing   |    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-fikri-arjuna/)     |
+|  6  | A350B4KY2252 | Lalu Maulana Khairuman Dwipa | Mobile Development | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-khairuman-a8693532b/) |
