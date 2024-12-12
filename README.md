@@ -39,7 +39,7 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
 # Architecture
 
 <p align="center">
-  <img src='images/arsitektur_exotiscan.png' type='image' alt="">
+  <img src='assets/images/arsitektur exotiscan.png' type='image' alt="">
 </p>
 
 # Tech Stack
