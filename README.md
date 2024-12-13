@@ -35,6 +35,7 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
 
 - Detect rare animal predictions using camera and upload image
 - Provides detailed information about the predicted animal species (description, rarity, etc)
+-
 
 # Architecture
 
@@ -50,14 +51,13 @@ ExotiScan is an educational mobile app designed to raise awareness about Indones
   - NumPy
   - Pandas
   - Matplotlib
+  - Tensorflowjs
 
 - **Cloud Computing**:
 
-  - Expressjs
-  - Firebase
+  - Hapi
   - Firestore (GCP)
   - Cloud Run (GCP)
-  - Cloud SQL (GCP)
   - Cloud Storage (GCP)
 
 - **Mobile Development**:
