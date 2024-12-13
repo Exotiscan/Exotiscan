@@ -17,11 +17,11 @@
     ·
     <a href="https://www.figma.com/design/1YFc0HWmJbWDXiUOANZNUX/Exotiscan?node-id=0-1&t=PCVU54GXkgxN0oqf-1">Exotiscan UI</a>
     ·
-    <a href="#">Exotiscan APK Link</a>
+    <a href="https://drive.google.com/file/d/1tHea2qLVUmxhoU-z8kC6d2UPbWlqBAmE/view?usp=drive_link">Exotiscan APK Link</a>
     ·
-    <a href="#">Video Presentation</a>
+    <a href="https://www.youtube.com/watch?v=OzDqG1Sui6Y">Video Presentation</a>
     ·
-    <a href="#">Presentation Slide</a>
+    <a href="https://drive.google.com/file/d/1oXl9wyYvplRM17oF4_lXeE2dQgP8oSp9/view?usp=drive_link">Presentation Slide</a>
     <br />
     © C242-PS552 Bangkit Capstone Team
   </p>
