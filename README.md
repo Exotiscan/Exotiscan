@@ -24,8 +24,9 @@ Make sure you have the following libraries installed:
 - NumPy
 - Pandas
 - Matplotlib
+- TensorflowJs
 
 You can install them using pip:
 
 ```bash
-pip install tensorflow numpy pandas matplotlib
+pip install tensorflow numpy pandas matplotlib tensorflowjs
