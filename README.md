@@ -21,7 +21,7 @@ Enjoy your exploration, and may you find it useful! 🎉
   - dotenv v16.4.7
   - google-cloud/firestore v7.10.0
 - GCP
-  - cloud ctorage
+  - cloud storage
   - firestore
   - cloud run
 
